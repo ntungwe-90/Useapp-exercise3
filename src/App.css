@@ -1,0 +1,28 @@
+.app{
+  height: 100vh;
+    display: flex;
+    height: 100px;
+  	
+}
+
+.app-info{
+  text-align: center;
+  background-color: hotpink;
+  border-right: 1px solid ;
+
+
+}
+.insertion{
+  background-color:white;
+  margin-bottom: 10px;
+  height: 45px;
+  border-radius: 50px;
+}
+.user-info{
+ text-transform: capitalize;
+	padding: 20px;
+	margin: 20px 0;
+  background-color: indigo;
+  color:white;
+  text-align: center;
+}	
